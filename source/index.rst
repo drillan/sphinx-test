@@ -12,11 +12,7 @@
    :numbered:
 
    capter01/title
-   capter01/section01
-   capter01/section02
-   capter01/section03
    capter02/title
-   capter02/section01
 
 
 Indices and tables
