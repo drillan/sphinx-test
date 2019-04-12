@@ -8,7 +8,7 @@ sphinxのテスト
 2. sphinxとnbsphinxをインストール
 
 ```bash
-pip install sphinx nbsphinx
+pip install sphinx jupyter nbsphinx
 ```
 
 ## Build
@@ -18,3 +18,5 @@ git clone https://github.com/drillan/sphinx-test.git
 cd sphinx-test
 make html
 ```
+
+`./build/html/index.html` を開いて確認
